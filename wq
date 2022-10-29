@@ -1,0 +1,62 @@
+[33mcommit 16b612f90138b2af9edba98787c25f6bcf4b8e0d[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: ddc13c2 2ca51eb
+Author: [Tomáš L] <[tomas.landa@fs.cvut.cz]>
+Date:   Sat Oct 29 19:43:02 2022 +0200
+
+    Jistě už vím proč mi mizí soubory
+    
+    Merge branch 'branch2'
+
+[33mcommit 2ca51eb42bdbe6d98be03c4fa9abaff9e1f0792a[m[33m ([m[1;32mbranch2[m[33m)[m
+Author: [Tomáš L] <[tomas.landa@fs.cvut.cz]>
+Date:   Sat Oct 29 19:42:37 2022 +0200
+
+    [proč_mi_mizí_soubory, ne vážně ! proč ?]
+
+[33mcommit ddc13c2325a7e29569fd79ec76b04cb035d21bbd[m
+Author: [Tomáš L] <[tomas.landa@fs.cvut.cz]>
+Date:   Sat Oct 29 19:40:44 2022 +0200
+
+    [upraven, pátý]
+
+[33mcommit cfef61845a76c94df06d7547c0e8b6fe2283d9d5[m[33m ([m[1;32mbranch3[m[33m)[m
+Author: [Tomáš L] <[tomas.landa@fs.cvut.cz]>
+Date:   Sat Oct 29 19:39:25 2022 +0200
+
+    [další soubor, pátý a poslední]
+
+[33mcommit 230c0bb3ca6916aa94d51d76350986befd3e8555[m
+Author: [Tomáš L] <[tomas.landa@fs.cvut.cz]>
+Date:   Sat Oct 29 19:36:24 2022 +0200
+
+    [další soubor, čtvrtý]
+
+[33mcommit e29eb0c58d52da5c36c8b6694c5ce58c69f8c232[m
+Author: [Tomáš L] <[tomas.landa@fs.cvut.cz]>
+Date:   Sat Oct 29 19:34:37 2022 +0200
+
+    [upraven soubor, druhý]
+
+[33mcommit c2de57d33d84ee745c3ffba5fbb7ad5719d29a32[m
+Author: [Tomáš L] <[tomas.landa@fs.cvut.cz]>
+Date:   Sat Oct 29 19:33:57 2022 +0200
+
+    [další soubor, třetí]
+
+[33mcommit c3e698784751210adc04ebaef3987073d797a6df[m[33m ([m[1;32mbranch1[m[33m)[m
+Author: [Tomáš L] <[tomas.landa@fs.cvut.cz]>
+Date:   Sat Oct 29 19:16:53 2022 +0200
+
+    [Úprava druhého txt]
+
+[33mcommit a93e0a9a4f3ad49e69c1804689166b1a52181c7e[m
+Author: [Tomáš L] <[tomas.landa@fs.cvut.cz]>
+Date:   Sat Oct 29 19:15:24 2022 +0200
+
+    [Přidání druhého txt]
+
+[33mcommit cae7dcff6296df69d8d4c6f39908ceb8372e05fd[m
+Author: [Tomáš L] <[tomas.landa@fs.cvut.cz]>
+Date:   Sat Oct 29 19:13:13 2022 +0200
+
+    [Přidání prvního txt]
